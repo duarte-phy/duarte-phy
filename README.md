@@ -1,4 +1,12 @@
-## Hi there 👋
+## <span style="color: chartreuse"> Microsoft is not a safe platform. </span>
+---
+
+### <span style="color: chartreuse"> Opt for free and open source platforms instead. </span>
+---
+
+Welcome to my GitHub page. I am a physics graduate and educator currently learning html, css, python, and pyscript. I want to develop free and open source software to aid learners and educators in local learning institutions.
+
+<img src="cartoon.png">
 
 <!--
 **duarte-phy/duarte-phy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
